@@ -1,5 +1,5 @@
 # Socket-Based-Server
-This repository contains the implementation of a socket-based server containing a client that sends ticks to the server. The client and server are created through make files and run through the exec file created. THe project is mostly written in C++.
+This repository contains the implementation of a socket-based server containing a client that sends ticks to the server. The client and server are created through make files and run through the exec file created. THe project was for a class I took and is mostly written in C++.
 
 ## Build and Run
 In order to build and run this project, use the provided Makefile.
