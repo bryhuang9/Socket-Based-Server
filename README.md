@@ -12,3 +12,6 @@ Please ensure that you have the required dependencies installed before running t
 
 ## Contribution
 We welcome any and all contributions to this project! If you're interested in improving our code, adding new features, or just fixing some bugs, please feel free to make a pull request.
+
+## Sources
+DISCLAIMER: Most of the code is from and for my course "Advanced Programming". DO NOT COPY FOR CHEATING PURPOSES!!!
